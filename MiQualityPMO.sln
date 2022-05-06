@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiQualityPMO", "MiQualityPMO\MiQualityPMO.csproj", "{3111549E-D6B2-4E60-8902-DB6BE83929DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3111549E-D6B2-4E60-8902-DB6BE83929DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3111549E-D6B2-4E60-8902-DB6BE83929DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3111549E-D6B2-4E60-8902-DB6BE83929DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3111549E-D6B2-4E60-8902-DB6BE83929DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48849F52-DCC6-4CF6-8518-EE57E0AE35FD}
+	EndGlobalSection
+EndGlobal
